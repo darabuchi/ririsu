@@ -1,0 +1,2 @@
+# ririsu
+Golangのリリース
